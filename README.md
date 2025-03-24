@@ -106,9 +106,3 @@ pip install python-dotenv
 ```
 
 - If the server doesn't start, make sure your environment variables are correctly configured.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
